@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "name": "thalir-academy"
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null
 }
